@@ -140,7 +140,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
                     thumbnail: fs.readFileSync('./lib/hisoka.jpg'),
                     surface: 200,
                     message: `Haii Kak ${pushname}\n𝙲𝚖𝚍 ${command}`,
-                    orderTitle: 'Please Follow TikTok @GuaAbuzz',
+                    orderTitle: 'Please Dont Spam',
                     sellerJid: '0@s.whatsapp.net'
                 }
             },
@@ -992,7 +992,8 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 ⭔ Ortu Saya.
 ⭔ DikaArdnt (Author).
 ⭔ Sanzy YT.
-⭔ GuaAbuzz (Recode).
+⭔ SkyzooDev (Saya).
+⭔ GuaAbuzz.
 ⭔ Fatih A.
 ⭔ Nurutomo.
 ⭔ Mhankbarbar.
