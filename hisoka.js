@@ -5127,10 +5127,11 @@ Request Message: ${text}`
 │└─────────────┈❖
 │⭔ 1 Minggu 5k
 │⭔ 1 Bulan 15k
+│⭔ 2 Bulan 25k
 └┬─────────────┈❖
 ┌┤「 PEMBAYARAN 」
 │└─────────────┈❖
-│⭔ TELKOMSEL : ${global.telkomsel}
+│⭔ AXIS : ${global.telkomsel}
 │⭔ XL : ${global.xl}
 │⭔ INDOSAT : ${global.indosat}
 │⭔ TRI : ${global.tri}
@@ -5202,7 +5203,7 @@ Request Message: ${text}`
 └┬─────────────┈❖
 ┌┤「 DONASI 」
 │└─────────────┈❖
-│⭔ TELKOMSEL : ${global.telkomsel}
+│⭔ AXIS : ${global.telkomsel}
 │⭔ XL : ${global.xl}
 │⭔ INDOSAT : ${global.indosat}
 │⭔ TRI : ${global.tri}
@@ -7156,6 +7157,8 @@ Request Message: ${text}`
 │• Library : *Baileys-MD*.
 │• Prefix : ( ${prefix} )
 │• Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
+│• Group Botz : 
+│   https://chat.whatsapp.com/C4gP6v3Nmb9AgMLG50N0Ha
 │• Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 │• Menuju Ulang Tahun OwnerKu :
 │   ${menuju}
