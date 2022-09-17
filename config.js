@@ -24,34 +24,34 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'Zoora'
-global.namaowner = 'NjirRaihann'
+global.namabot = 'Akame Botz'
+global.namaowner = 'SkyzooDev'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281213671637']
-global.premium = ['6281213671637']
+global.owner = ['6288232154376']
+global.premium = ['6288232154376']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6281213671637']
+global.telkomsel = ['6283812737630']
 global.xl = ['-']
 global.indosat = ['-']
 global.tri = ['-']
 global.smartfren = ['-']
-global.gopay = ['6281213671637']
-global.dana = ['6281213671637']
+global.gopay = ['6283812737630']
+global.dana = ['6283812737630']
 global.ovo = ['-']
 global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
-global.scbot = 'https://github.com/Abuzzpoet/Akame'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.github = 'https://github.com/SkyzooDev'
+global.scbot = 'https://github.com/SkyzooDev/Akame'
+global.myweb = 'https://tiktok.com/@nixsen_preset'
 
 //—————「 Set Wm 」—————//
-global.packname = 'Zoora'
+global.packname = 'Akame'
 global.author = 'WhatsApp Bot'
 
 //—————「 Set Nama Session 」—————//
@@ -85,7 +85,7 @@ global.mess = {
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 50,
+    free: 20,
 }
 
 //—————「 Set Image 」—————//
